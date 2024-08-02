@@ -1,0 +1,30 @@
+.section{
+    border: 1px solid black;
+    height:400px; 
+    width:650px;
+    overflow: scroll;
+}
+input{
+    width:100px;
+    height:20px;
+}
+.add{
+    background-color: rgb(0, 245, 33);
+    color: white;
+    border-radius: 15px;
+    padding:10px;
+}
+.footer{
+    text-align: right;
+}
+table , tr, th{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding:10px;
+    margin-top: 20px;
+    
+
+}
+table th{
+    width:120px;
+}
